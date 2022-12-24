@@ -1,0 +1,291 @@
+{"testcase1":[{
+        "name": "CIS*3760*0101 (7263) Software Engineering",
+        "term": "Fall 2022",
+        "capacity": "0 / 32",
+        "status": "Closed",
+        "faculty": "G. Klotz",
+        "credit": "0.75",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Tues, Thur\n08:30AM - 09:50AM\nRICH, Room 2529\nLAB Mon\n11:30AM - 01:20PM\nTHRN, Room 2420"
+},{
+        "name": "CIS*3760*0102 (7264) Software Engineering",
+        "term": "Fall 2022",
+        "capacity": "0 / 32",
+        "status": "Closed",
+        "faculty": "G. Klotz",
+        "credit": "0.75",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Tues, Thur\n08:30AM - 09:50AM\nRICH, Room 2529\nLAB Mon\n02:30PM - 04:20PM\nTHRN, Room 2420"
+},{
+        "name": "CIS*3760*0103 (7265) Software Engineering",
+        "term": "Fall 2022",
+        "capacity": "0 / 32",
+        "status": "Closed",
+        "faculty": "G. Klotz",
+        "credit": "0.75",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Tues, Thur\n08:30AM - 09:50AM\nRICH, Room 2529\nLAB Thur\n07:00PM - 08:50PM\nTHRN, Room 2420"
+}], "testcase2": [{
+        "name": "ACCT*1220*0101 (6573) Intro Financial Accounting",
+        "term": "Fall 2022",
+        "capacity": "3 / 48",
+        "status": "Open",
+        "faculty": "P. Lassou",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Fri\n08:30AM - 10:20AM\nROZH, Room 104\nSEM Mon\n04:30PM - 05:20PM\nMCKN, Room 225\nEXAM Tues\n08:30AM - 10:30AM (2022/12/06)\nRoom TBA"
+},{
+        "name": "ACCT*1220*0102 (6574) Intro Financial Accounting",
+        "term": "Fall 2022",
+        "capacity": "1 / 48",
+        "status": "Open",
+        "faculty": "P. Lassou",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Fri\n08:30AM - 10:20AM\nROZH, Room 104\nSEM Tues\n08:30AM - 09:20AM\nMCKN, Room 227\nEXAM Tues\n08:30AM - 10:30AM (2022/12/06)\nRoom TBA"
+},{
+        "name": "ACCT*1220*0103 (6575) Intro Financial Accounting",
+        "term": "Fall 2022",
+        "capacity": "1 / 48",
+        "status": "Open",
+        "faculty": "P. Lassou",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Fri\n08:30AM - 10:20AM\nROZH, Room 104\nSEM Wed\n04:30PM - 05:20PM\nMCKN, Room 228\nEXAM Tues\n08:30AM - 10:30AM (2022/12/06)\nRoom TBA"
+},{
+        "name": "ACCT*1220*0104 (6576) Intro Financial Accounting",
+        "term": "Fall 2022",
+        "capacity": "0 / 48",
+        "status": "Closed",
+        "faculty": "P. Lassou",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Fri\n08:30AM - 10:20AM\nROZH, Room 104\nSEM Thur\n12:30PM - 01:20PM\nMACS, Room 121\nEXAM Tues\n08:30AM - 10:30AM (2022/12/06)\nRoom TBA"
+},{
+        "name": "ACCT*1220*0105 (6577) Intro Financial Accounting",
+        "term": "Fall 2022",
+        "capacity": "1 / 48",
+        "status": "Open",
+        "faculty": "P. Lassou",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Fri\n08:30AM - 10:20AM\nROZH, Room 104\nSEM Mon\n11:30AM - 12:20PM\nMCKN, Room 226\nEXAM Tues\n08:30AM - 10:30AM (2022/12/06)\nRoom TBA"
+},{
+        "name": "ACCT*1220*0106 (6578) Intro Financial Accounting",
+        "term": "Fall 2022",
+        "capacity": "0 / 48",
+        "status": "Closed",
+        "faculty": "P. Lassou",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Fri\n08:30AM - 10:20AM\nROZH, Room 104\nSEM Tues\n02:30PM - 03:20PM\nMACS, Room 121\nEXAM Tues\n08:30AM - 10:30AM (2022/12/06)\nRoom TBA"
+},{
+        "name": "ACCT*1220*0107 (6579) Intro Financial Accounting",
+        "term": "Fall 2022",
+        "capacity": "1 / 70",
+        "status": "Open",
+        "faculty": "P. Lassou",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Fri\n08:30AM - 10:20AM\nROZH, Room 104\nSEM Tues\n09:30AM - 10:20AM\nAD-S, Room VIRTUAL\nEXAM Tues\n08:30AM - 10:30AM (2022/12/06)\nRoom TBA"
+},{
+        "name": "ACCT*1220*0108 (6580) Intro Financial Accounting",
+        "term": "Fall 2022",
+        "capacity": "2 / 70",
+        "status": "Open",
+        "faculty": "P. Lassou",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Fri\n08:30AM - 10:20AM\nROZH, Room 104\nSEM Wed\n01:30PM - 02:20PM\nAD-S, Room VIRTUAL\nEXAM Tues\n08:30AM - 10:30AM (2022/12/06)\nRoom TBA"
+},{
+        "name": "ACCT*1220*0109 (6581) Intro Financial Accounting",
+        "term": "Fall 2022",
+        "capacity": "0 / 48",
+        "status": "Closed",
+        "faculty": "P. Lassou",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Fri\n08:30AM - 10:20AM\nROZH, Room 104\nSEM Mon\n12:30PM - 01:20PM\nMCKN, Room 231\nEXAM Tues\n08:30AM - 10:30AM (2022/12/06)\nRoom TBA"
+},{
+        "name": "ACCT*1220*0110 (6582) Intro Financial Accounting",
+        "term": "Fall 2022",
+        "capacity": "1 / 48",
+        "status": "Open",
+        "faculty": "P. Lassou",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Fri\n08:30AM - 10:20AM\nROZH, Room 104\nSEM Thur\n11:30AM - 12:20PM\nMACS, Room 121\nEXAM Tues\n08:30AM - 10:30AM (2022/12/06)\nRoom TBA"
+},{
+        "name": "ACCT*1220*DE01 (6583) Intro Financial Accounting",
+        "term": "Fall 2022",
+        "capacity": "8 / 200",
+        "status": "Open",
+        "faculty": "T. Nasreen",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "Distance Education Days TBA\nTimes TBA\nRoom TBA\nEXAM Tues\n08:30AM - 10:30AM (2022/12/06)\nRoom TBA"
+},{
+        "name": "ACCT*2230*01 (6584) Management Accounting",
+        "term": "Fall 2022",
+        "capacity": "149 / 500",
+        "status": "Open",
+        "faculty": "K. Jagoda",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Tues\n07:00PM - 09:50PM\nROZH, Room 104\nEXAM Wed\n11:30AM - 01:30PM (2022/12/14)\nRoom TBA"
+},{
+        "name": "ACCT*2230*DE01 (6585) Management Accounting",
+        "term": "Fall 2022",
+        "capacity": "23 / 325",
+        "status": "Open",
+        "faculty": "S. Dhaliwal",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "Distance Education Days TBA\nTimes TBA\nRoom TBA\nEXAM Wed\n11:30AM - 01:30PM (2022/12/14)\nRoom TBA"
+},{
+        "name": "ACCT*3280*01 (6586) Auditing I",
+        "term": "Fall 2022",
+        "capacity": "16 / 68",
+        "status": "Open",
+        "faculty": "P. Ghattas",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Wed, Fri\n01:00PM - 02:20PM\nCRSC, Room 116\nEXAM Sat\n08:30AM - 10:30AM (2022/12/10)\nRoom TBA"
+},{
+        "name": "ACCT*3330*01 (6588) Intermed Financial Account I",
+        "term": "Fall 2022",
+        "capacity": "8 / 76",
+        "status": "Open",
+        "faculty": "S. Wick",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Mon, Wed\n04:00PM - 05:20PM\nMCKN, Room 116\nEXAM Mon\n02:30PM - 04:30PM (2022/12/12)\nRoom TBA"
+},{
+        "name": "ACCT*3330*02 (6589) Intermed Financial Account I",
+        "term": "Fall 2022",
+        "capacity": "8 / 76",
+        "status": "Open",
+        "faculty": "S. Wick",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Mon, Wed\n01:00PM - 02:20PM\nMCKN, Room 121\nEXAM Mon\n02:30PM - 04:30PM (2022/12/12)\nRoom TBA"
+},{
+        "name": "ACCT*3340*01 (6590) Intermed Financial Account II",
+        "term": "Fall 2022",
+        "capacity": "5 / 85",
+        "status": "Open",
+        "faculty": "S. Scott",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Wed, Fri\n11:30AM - 12:50PM\nMACS, Room 209\nEXAM Wed\n08:30AM - 10:30AM (2022/12/07)\nRoom TBA"
+},{
+        "name": "ACCT*3340*02 (6591) Intermed Financial Account II",
+        "term": "Fall 2022",
+        "capacity": "8 / 65",
+        "status": "Open",
+        "faculty": "S. Scott",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Wed, Fri\n02:30PM - 03:50PM\nCRSC, Room 116\nEXAM Wed\n08:30AM - 10:30AM (2022/12/07)\nRoom TBA"
+},{
+        "name": "ACCT*3350*01 (6592) Taxation",
+        "term": "Fall 2022",
+        "capacity": "11 / 38",
+        "status": "Open",
+        "faculty": "S. Dhaliwal",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Tues, Thur\n02:30PM - 03:50PM\nMCKN, Room 306\nEXAM Thur\n11:30AM - 01:30PM (2022/12/15)\nRoom TBA"
+},{
+        "name": "ACCT*3350*02 (6593) Taxation",
+        "term": "Fall 2022",
+        "capacity": "7 / 38",
+        "status": "Open",
+        "faculty": "S. Dhaliwal",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Tues, Thur\n11:30AM - 12:50PM\nMCKN, Room 305\nEXAM Thur\n11:30AM - 01:30PM (2022/12/15)\nRoom TBA"
+},{
+        "name": "ACCT*4220*01 (6594) Advanced Financial Accounting",
+        "term": "Fall 2022",
+        "capacity": "0 / 75",
+        "status": "Closed",
+        "faculty": "R. Baker",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Tues, Thur\n04:00PM - 05:20PM\nMCKN, Room 116\nEXAM Mon\n02:30PM - 04:30PM (2022/12/12)\nRoom TBA"
+},{
+        "name": "ACCT*4220*02 (6595) Advanced Financial Accounting",
+        "term": "Fall 2022",
+        "capacity": "0 / 75",
+        "status": "Closed",
+        "faculty": "R. Baker",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Tues, Thur\n11:30AM - 12:50PM\nMCKN, Room 116\nEXAM Mon\n02:30PM - 04:30PM (2022/12/12)\nRoom TBA"
+},{
+        "name": "ACCT*4230*01 (6596) Advanced Management Accounting",
+        "term": "Fall 2022",
+        "capacity": "30 / 50",
+        "status": "Open",
+        "faculty": "K. Jagoda",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Tues, Thur\n11:30AM - 12:50PM\nMCLN, Room 107\nEXAM Fri\n08:30AM - 10:30AM (2022/12/16)\nRoom TBA"
+},{
+        "name": "ACCT*4270*01 (6597) Auditing II",
+        "term": "Fall 2022",
+        "capacity": "65 / 110",
+        "status": "Open",
+        "faculty": "C. Zavitz",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Mon, Wed\n04:00PM - 05:20PM\nMAC, Room 149\nEXAM Wed\n11:30AM - 01:30PM (2022/12/14)\nRoom TBA"
+},{
+        "name": "ACCT*4270*02 (6598) Auditing II",
+        "term": "Fall 2022",
+        "capacity": "10 / 110",
+        "status": "Open",
+        "faculty": "C. Zavitz",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Mon, Wed\n01:00PM - 02:20PM\nMAC, Room 149\nEXAM Wed\n11:30AM - 01:30PM (2022/12/14)\nRoom TBA"
+},{
+        "name": "ACCT*4350*01 (6599) Income Taxation II",
+        "term": "Fall 2022",
+        "capacity": "2 / 95",
+        "status": "Open",
+        "faculty": "S. Dhaliwal",
+        "credit": "0.50",
+        "level": "Undergraduate",
+        "location": "Guelph",
+        "meetings": "LEC Mon, Wed\n08:30AM - 09:50AM\nMACS, Room 209\nEXAM Mon\n11:30AM - 01:30PM (2022/12/05)\nRoom TBA"
+}]}
